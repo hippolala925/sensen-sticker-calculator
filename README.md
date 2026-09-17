@@ -1,0 +1,1 @@
+# sensen-sticker-calculator
